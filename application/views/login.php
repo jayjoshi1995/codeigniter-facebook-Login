@@ -4,6 +4,6 @@
 <title>Login with Facebook in CodeIgniter</title>
 </head>
 <body>
-	<a href="<?=$authUrl?>"><img src="<?=base_url()?>img/flogin.png" alt=""/></a>
+	<a href="<?=$authUrl?>"><img src="<?=base_url()?>img/flogin.png" width="150"/></a>
 </body>
 </html>
